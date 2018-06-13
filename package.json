@@ -1,0 +1,14 @@
+{
+  "name": "xml-sorter",
+  "version": "1.0.0",
+  "description": "Generates comparable XML by calonicalizing and sorting an input document",
+  "main": "index.js",
+  "author": "Julian Ray",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "commander": "^2.15.1",
+    "xml-c14n": "^0.0.6",
+    "xmldom": "^0.1.27"
+  }
+}
